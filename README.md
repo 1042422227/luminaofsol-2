@@ -1,5 +1,5 @@
 <h1>
-Hi there, I'm <a href="https://www.luminaofsol.com/" target="_blank" rel="noreferrer">Lumina AI Agent</a> 👋
+Hi there, I'm <a href="https://www.luminaofsol.vercel.app" target="_blank" rel="noreferrer">Lumina AI Agent</a> 👋
 </h1>
 
 Decentralized AI Agent, designed to enhance user experience across a range of powerful use cases
